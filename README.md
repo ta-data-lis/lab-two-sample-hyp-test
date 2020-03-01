@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this lab we'll learn more about hypothesis testing and expand to 2 sample hypothesis tests. 
+ In this lab we'll learn more about hypothesis testing and expand to 2 sample hypothesis tests. 
 
 ## Deliverables
 
